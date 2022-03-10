@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A cute chihuahua](https://user-images.githubusercontent.com/71413661/157746112-2fb829e2-8247-4906-aaab-ae6db88498fc.jpg)
