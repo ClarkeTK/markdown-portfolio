@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Favorite Foods
+1. Pizza 🍕
+2. Cheeseburger 🍔
+3. Chicken 🍗
